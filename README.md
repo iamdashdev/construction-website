@@ -28,9 +28,6 @@ A **construction website project** is a digital platform designed to showcase a 
 - **Google Maps integration** for location.
 - **Phone number, email, and office address**.
 
-### 6️⃣ Blog (Optional)
-- Articles about **construction tips, trends, and industry news**.
-
 ### 7️⃣ Responsive Design
 - **Mobile-friendly layout** for seamless browsing.
 
